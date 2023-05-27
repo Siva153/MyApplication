@@ -1,6 +1,7 @@
+org\application\exception\InternalServerException.class
 org\application\controller\MovieController.class
+org\application\exception\MovieNotFoundException.class
 org\application\service\impl\MoviesServiceImpl.class
 org\application\model\Movie.class
 org\application\repository\MovieRepository.class
 org\application\MyApplication.class
-org\application\repository\CountryRepositoryImpl.class
